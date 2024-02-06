@@ -39,7 +39,7 @@ function App() {
       ) : (
         <div className="centered">
           <img alt="bear with hearts" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWgwdXA1bWFyOGx3YzYzaHU1dGdwb2ZlNWV4aHdlZHdoaW5za2k2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/U7VI2RFA6VcH2Gm7H9/giphy.gif" />
-          <p className='valentine-question'>Hi poopy, will you be my Valentine?</p>
+          <p className='valentine-question'>Hi bestie, will you be my Valentine?</p>
           <button
             className='yesButton'
             style={{ fontSize: yesButtonSize, yesButtonStyle }}
